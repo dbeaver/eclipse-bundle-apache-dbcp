@@ -10,4 +10,6 @@ Bundle-ClassPath: lib/commons-dbcp2-2.7.0.jar,
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-Vendor: Apache
 Eclipse-BundleShape: dir
-Export-Package: org.apache.commons.dbcp2
+Export-Package: org.apache.commons.dbcp2,
+ org.apache.commons.pool2,
+ org.apache.commons.pool2.impl

@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: JAXB bundle
+Bundle-Name: Apache DBCP bundle
 Bundle-SymbolicName: org.jkiss.bundle.apache.dbcp;singleton:=true
 Bundle-Version: 2.7.0
 Bundle-ClassPath: lib/commons-dbcp2-2.7.0.jar,
